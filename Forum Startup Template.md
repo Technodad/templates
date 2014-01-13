@@ -2,7 +2,7 @@ Title: Forum Startup Template
 Author: David Lounsbury
 Date: 13-12-05
 Affiliation: The Open Group
-Revision: DRAFT 2.0
+Revision: DRAFT 3.0
 Copyright: ©2013, The Open Group 
 
 # Forum Startup Checklist #
@@ -76,11 +76,13 @@ When we find opportunities to create or bring activities under The Open Group um
 
 We have a tried and tested formula for launching new programs, whether these are new formations, launching a certification program for an existing activity, or other major change. This approach is based on having our major publicity push taking place at an Open Group conference, and "opening for business" far enough before that conference so that we can demonstrate support and market uptake at the event through certified products or people, supporters on stage etc. 
 
-|Launch Event  Checklist|Approval| Lead Time |
-|---------------------|-----------------------|-----------------------|  
-|☐ FD works with VP Marketing to define launch plan, including "open for business" or "soft" launch, and formal launch|VP Marketing|
-|Schedule formal launch to take place during a Open Group conference| VP Mktg| 3 months|  
-|☐ Let key potential customers know we are "open for business" and sign up initial customers, e.g, Forum members, entities getting certified etc.|VP Channels|Variable - but ensure sufficient time to complete signups, certifications as needed.|
-|☐ Recruit and confirm key supporters or early / pilot customers to speak at launch event or provide testimonials to give evidence of adoption.| FD, VP Mktg| 3 months|  
-|Create and approve public launch materials|VP Marketing, CEO|1 month|  
-[Launch Event Checklist]
+Planning for such a launch occurs in several stages:
+
+1.  The Forum Director works with VP Marketing to define launch plan, including "open for business" or "soft" launch, and formal launch
+1. Schedule formal launch to take place during a Open Group conference, allowing adequate lead time for conference planning - > 3 months.
+2. Let key potential customers know we are "open for business" and sign up initial customers, e.g, Forum members, entities getting certified etc. This stage ensure sufficient time to complete signups, certifications as needed.
+3. Recruit and confirm key supporters or early / pilot customers to speak at launch event or provide testimonials to give evidence of adoption.
+4. Create and approve public launch materials
+5. Execute launch and communications plan
+
+A detailed checklist for launch planning and communication is found in the separate document _Launch Communication Plan Template_.

@@ -6,6 +6,8 @@ Copyright: ©2013, The Open Group
 
 #Certification Pre-review VP Checklist for DOCUMENT
 
+**NOTE**: The Open Group CEO must approve all pricing, including those of certification programs. The overall business model for the certification program **must** be reviewed and approved by the CEO and VP Certification during the drafting of the Certification Policy document to ensure a viable business model. 
+
 | Approval Criteria | OK? | Reviewer | If not, state reason for concern | Document References |
 | ----------------- | --- | -------- | -------------------------------- | ------------------- |
 | What is the overall business model for the certification program, and does it follow a proven business model for certification? | | | | |
